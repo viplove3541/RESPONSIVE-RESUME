@@ -60,13 +60,13 @@ body{
 }
 
 .profileTxt h2{
-    color: #fff;
-    font-size: 1.5em;
+    color:black;
+    font-size: 1.9em;
     margin-top: 20px;
     text-transform: uppercase;
     text-align: center;
     font-weight: 600;
-    line-height: 1.4em;
+    line-height: 1em;
 }
 
 .profileTxt h2 span{
@@ -284,5 +284,7 @@ p{
         grid-template-columns: repeat(1,1fr);
     }
 }
+
+
 
 
