@@ -136,6 +136,9 @@ body{
     font-weight: 500;
  }
 
+a{
+text-decoration:none;
+}
                       
                      /*LANGUAGES  */
 .contactInfo.Langs .percent{
